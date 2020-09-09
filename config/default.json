@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sandes789:Baisjangar9@cluster0.uxh4m.mongodb.net/traversy?retryWrites=true&w=majority",
+    "jwtSecret" : "jwt_iloveyou"
+}
